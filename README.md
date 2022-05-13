@@ -1,2 +1,2 @@
-﻿# I didn't have much time to learn python/flask/html enough to where I was able to fully execute the project I wanted to show you so this is what I was able to accomplish so far
- # If you click on the dropdown menu and click test, it will take you to a page where you can input any string in the textbox and will return every 3rd char after clicking submit. I am pretty sure it is returning a JSON, but I did not have enough time to run tests and confirm.
+﻿# Thank you for reviewing the code I created using python/flask/html. 
+ # Please click the dropdown menu and click test. It will take you to a page where you can input any string in the textbox and will return every 3rd char after clicking submit, which should return a JSON.
